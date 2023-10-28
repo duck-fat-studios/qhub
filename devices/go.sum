@@ -1,0 +1,4 @@
+github.com/duck-fat-studios/dfs-go-networking v0.0.0-20231025125044-1726b055bff8 h1:v73lUBviyH7rRbwEpjBjiI8x7lWZwkG1Or80VY/F1yg=
+github.com/duck-fat-studios/dfs-go-networking v0.0.0-20231025125044-1726b055bff8/go.mod h1:Yvg1xYJs1qghQxKWLOrKkrAihYKWm9cGJ20Blvsv5Ps=
+github.com/ericboxer/go-kindling v0.0.0-20231026195414-819bcbe218f1 h1:umQYgia3M/Eee+YJJOONqDM8flHYMKX28caOMd0WONM=
+github.com/ericboxer/go-kindling v0.0.0-20231026195414-819bcbe218f1/go.mod h1:JRZ+S0lCWSyc7cnbAYzXeICuYb4g7e3agNPZKfKC8W4=
