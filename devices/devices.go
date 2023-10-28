@@ -5,7 +5,6 @@ import (
 	"net"
 
 	k "github.com/ericboxer/go-kindling"
-	"github.com/duck-fat-studios/qhub/devices" 
 )
 
 type Device interface {

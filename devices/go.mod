@@ -1,4 +1,4 @@
-module github.com/ericboxer/devices
+module github.com/duck-fat-studios/qhub/devices
 
 go 1.21.3
 
